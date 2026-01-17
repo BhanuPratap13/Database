@@ -9,7 +9,4 @@ The goal of this repo is to:
 - Track consistent problem-solving progress
 - Serve as a portfolio reference for interviews
 
----
-
-## 📁 Repository Structure
 
